@@ -6,4 +6,5 @@ patches
 util.o
 dwm
 dwm.o
+.vscode
 drw.o
